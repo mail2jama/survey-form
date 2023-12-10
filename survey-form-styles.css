@@ -1,3 +1,12 @@
 .field-label {
-    display: block;
-  }
+  display: block;
+}
+
+body {
+  
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+form {
+  background-color: rgba(0, 0, 190, 0.75);
+}
